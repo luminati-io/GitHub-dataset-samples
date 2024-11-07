@@ -30,7 +30,7 @@ A GitHub dataset sample of over 1000 repositories. Dataset was extracted using t
 And a lot more.
 
 This is a sample subset which is derived from the "GitHub Repositories (public data)"
-dataset which includes more than <b>2,200,000 profiles and posts</b>.
+dataset which includes more than <b>2,200,000 repositories</b>.
 
 Available dataset file formats: <b>JSON, NDJSON, JSON Lines, CSV, or Parquet. Optionally, files can be compressed to .gz</b>.
 
@@ -40,7 +40,7 @@ Update frequency: <b>Once, Daily, Weekly, Monthly, Quarterly, or Custom basis</b
 
 Data enrichment available as an addition to the data points extracted: <b>Based on request.</b>
 
-<b>[Get the full GitHub dataset](https://brightdata.com/products/datasets/GitHub)</b>.
+<b>[Get the full GitHub dataset](https://brightdata.com/products/datasets/github)</b>.
 
 <h2>What are the GitHub datasets use cases?</h2>
 
